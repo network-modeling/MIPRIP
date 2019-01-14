@@ -7,7 +7,7 @@ Best, you follow the tutorial in the short manual which explains how to use the 
 
 For more details you can read our papers:
 
-Poos, A.M., et al. (2019) Modelling TERT regulation across 19 different cancer types based on the MIPRIP 2.0 gene regulatory network approach. bioRxiv
+Poos, A.M., et al. Modelling TERT regulation across 19 different cancer types based on the MIPRIP 2.0 gene regulatory network approach. bioRxiv 2019, 513259; doi: https://doi.org/10.1101/513259. 
 
 Poos, A.M., et al. Mixed Integer Linear Programming based machine learning approach identifies regulators of telomerase in yeast. Nucleic Acids Res 2016;44(10):e93.
 
